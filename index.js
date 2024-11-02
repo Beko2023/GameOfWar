@@ -64,10 +64,3 @@ function determineCardWinner(card1, card2) {
 }
 
 
-// async function handleClick() {
-//     const response = await fetch("https://apis.scrimba.com/deckofcards/api/deck/new/shuffle/")
-//     const data = await res.json()
-//     remainingText.textContent = `Remaining cards: ${data.remaining}`
-//     deckId = data.deck_id
-//     console.log(deckId)
-// }
